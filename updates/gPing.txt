@@ -3,3 +3,8 @@
 - First release of gPing. HAPPY HALLOWEEN!
 }
 
+{
+[Tuesday 31st October 2017 - Version 0.01]
+- First release of gPing. HAPPY HALLOWEEN!
+}
+
