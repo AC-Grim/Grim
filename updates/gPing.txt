@@ -1,5 +1,5 @@
 {
-Tuesday 31st October 2017
-- gPing script release.
+[Tuesday 31st October 2017 - Version 0.01]
+- First release of gPing. HAPPY HALLOWEEN!
 }
 
